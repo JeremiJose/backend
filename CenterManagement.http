@@ -1,0 +1,6 @@
+@CenterManagement_HostAddress = http://localhost:5241
+
+GET {{CenterManagement_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
